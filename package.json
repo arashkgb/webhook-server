@@ -1,0 +1,9 @@
+{
+  "name": "webhook-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
